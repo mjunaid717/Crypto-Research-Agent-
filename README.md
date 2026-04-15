@@ -72,8 +72,7 @@ This project is designed to:
 
 bash
 git clone 
-https://github.com/mjunaid717/Crypto-Research-Agent-
-cd AI-Crypto-Analyst
+https://github.com/mjunaid717/Crypto-Research-Agent
 
 
 ### 2️ Install dependencies
@@ -115,7 +114,7 @@ streamlit run app.py
 <img src="crypto.png" width="45%"/>
 <img src="crypto.png(2).png" width="45%"/>
 <img src="crypto.png(3).png" width="45%"/>
-<img src="crypto.png(4).png" width="45%"/>
+<img src="crypto.png(4)." width="45%"/>
 
 </p>
 
