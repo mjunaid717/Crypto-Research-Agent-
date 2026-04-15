@@ -114,7 +114,7 @@ streamlit run app.py
 <img src="crypto.png" width="45%"/>
 <img src="crypto.png(2).png" width="45%"/>
 <img src="crypto.png(3).png" width="45%"/>
-<img src="crypto.png(4)." width="45%"/>
+<img src="crypto.png (4).png" width="45%"/>
 
 </p>
 
