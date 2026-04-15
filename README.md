@@ -59,7 +59,6 @@ This project is designed to:
  ┣ app.py
  ┣ data.py
  ┣ agent.py
- ┣ ui_components.py
  ┣ requirements.txt
  ┗ README.md
 
@@ -144,7 +143,7 @@ Fork → Branch → Commit → Push → PR
 
 *Mohammed Junaid*
 
-* AI | IoT | Data Analytics | Full Stack Developer
+* Data Analytics | Gen AI
 
 ---
 
