@@ -1,7 +1,7 @@
-# Crypto-Research-Agent-
+# Crypto-Research-Agent
 AI-powered crypto market research dashboard with real-time data, trend analysis, and an interactive chat interface.
 
-*AI Crypto Analyst* is a modern AI-driven cryptocurrency dashboard that combines *real-time market data* with *intelligent AI analysis*.
+*Crypto-Research-Agent* is a modern AI-driven cryptocurrency dashboard that combines *real-time market data* with *intelligent AI analysis*.
 
 With the rise of AI-based crypto tools and dashboards, developers are increasingly building systems that turn raw market data into actionable insights.
 
@@ -39,8 +39,7 @@ This project is designed to:
 
 ### Premium UI/UX
 
-* Glassmorphism design 
-* Dark futuristic theme 
+* Glassmorphism design
 * Smooth animations
 * Chat-style interaction
 
@@ -55,7 +54,7 @@ This project is designed to:
 ##  Project Structure
 
 
- AI-Crypto-Analyst
+ Crypto-Research-Agent
  ┣ app.py
  ┣ data.py
  ┣ agent.py
